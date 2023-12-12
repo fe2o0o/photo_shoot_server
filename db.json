@@ -1,0 +1,96 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "ibrahim mohamed",
+      "email": "ibrahimmohamed@gmail.com",
+      "phone": "01284954021",
+      "password": "12345"
+    }
+  ],
+  "photographers": [
+    {
+      "id": 1,
+      "name": "mohamed Said",
+      "location": "Cairo",
+      "profile_image": "assets/images/user1.png",
+      "desc": "Popular Photography in Cairo",
+      "phone_number":"https://wa.me/+201029224914",
+      "gallary": [
+        {
+          "id": 1,
+          "image": "assets/images/user1_gallary1.png",
+          "price": 150
+        },
+        {
+          "id": 2,
+          "image": "assets/images/user1_gallary2.png",
+          "price": 200
+        },
+        {
+          "id": 3,
+          "image": "assets/images/user1_gallary3.png",
+          "price": 800
+        }
+      ],
+      "requests": [
+        {
+          "id": 1,
+          "name": "ibrahim mohamed",
+          "email": "ibrahimmohamed@gmail.com",
+          "message": "i need you for session"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "asmaa ezzat",
+      "location": "Alexandria",
+      "profile_image": "assets/images/user2.jpg",
+      "desc": "Popular Photography in Alexandria",
+      "phone_number":"https://wa.me/+201094211390",
+      "gallary": [
+        {
+          "id": 1,
+          "image": "assets/images/user2_gallary1.png",
+          "price": 150
+        },
+        {
+          "id": 2,
+          "image": "assets/images/user2_gallary2.png",
+          "price": 200
+        },
+        {
+          "id": 3,
+          "image": "assets/images/user2_gallary3.png",
+          "price": 800
+        }
+      ],
+      "requests": [
+        {
+          "id": 1,
+          "name": "ibrahim mohamed",
+          "email": "ibrahimmohamed@gmail.com",
+          "message": "i need you for session"
+        }
+      ]
+    },
+    { 
+      "id": 3,
+      "name": "salah Ahmed",
+      "location": "Mansoura",
+      "profile_image": "assets/images/user3.png",
+      "desc": "Popular Photography in Mansoura",
+      "phone_number":"https://wa.me/+201029224914",
+      "gallary": [],
+      "requests": [
+        {
+          "id": 1,
+          "name": "ibrahim mohamed",
+          "email": "ibrahimmohamed@gmail.com",
+          "message": "i need you for session"
+        }
+      ]
+    }
+  ]
+}
